@@ -1,0 +1,7 @@
+requests
+SQLAlchemy
+matplotlib
+seaborn 
+schedule 
+smtplib
+dotenv
